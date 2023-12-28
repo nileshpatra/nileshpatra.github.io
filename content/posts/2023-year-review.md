@@ -82,7 +82,7 @@ a very enjoyable experience with serene beaches all around. This is a place that
 
 ![PDY](/pdy-2023.jpg "Puducherry Beaches and Tourist Spots")
 
-## Abhraham Raji
+## Abraham Raji
 
 This deserves a blog post of its own. The most tragic incident of this year was loss of a dear friend, Abraham Raji
 in a [tragic accident](https://www.debian.org/News/2023/20230914).
