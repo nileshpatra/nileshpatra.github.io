@@ -61,7 +61,7 @@ I attended [Debconf'23](https://debconf23.debconf.org/) that happened from Septe
 This was an entirely new experience with meeting lots of new and old folks, many of whom I had been working for
 years but never got a chance to meet. Those nicks that I would see popping up from time to time on IRC now have faces!
 
-<< IMAGE >>
+![DC23 Fun](/dc23.jpg "DebConf 2023")
 
 This meant a week full of relaxation, attending workshops and talks, working on Debian, having a casual chat, having meals
 with interesting people and ofcourse, roaming around in Kochi 😀
@@ -75,24 +75,24 @@ set to happen in Busan, South Korea.
 [Chennai](https://en.wikipedia.org/wiki/Chennai) and eventually VPM along with presenting a talk.
 Although a short event, it was nice to meet familiar people.
 
-<< IMAGE >>
+![MDC VPM](/mdctn23.jpg "MDC Villupuram")
 
 As an addendum, I gave myself an opportunity (😜) to visit [Puducherry](https://en.wikipedia.org/wiki/Pondicherry) which was
 a very enjoyable experience with serene beaches all around. This is a place that I'd definitely want to give a visit again!
 
-<< IMAGE >>
+![PDY](/pdy-2023.jpg "Puducherry Beaches and Tourist Spots")
 
 ## Abhraham Raji
 
 This deserves a blog post of its own. The most tragic incident of this year was loss of a dear friend, Abraham Raji
 in a [tragic accident](https://www.debian.org/News/2023/20230914).
 
-<< IMAGE >>
+![avronr1](/abraham-1.jpg "")
 
 I have known Abraham since 2019 and saw him as a very active contributor since then, helping and popping into
 different channels. I will always remember that smile which would instantly light up the room.
 
-<< IMAGE >>
+![avronr2](/abraham-2.jpg "")
 
 Web Development, Graphic Designing, Mentoring, Debian Development - this man left no skill untouched. I was always
 impressed by the sheer amount of things he was doing and it will always serve as an inspiration for me. And ofcourse, Abraham's
