@@ -37,4 +37,4 @@ jobs:
           publish_dir: ./public
           user_name: nileshpatra
           user_email: <nilesh@nileshpatra.com>
-          publish_branch: main
+          publish_branch: gh-pages
