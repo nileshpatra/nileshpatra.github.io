@@ -47,13 +47,13 @@ mentoring pointers from the Outreachy Organizers. It seems they are doing a real
 
 ### IndiaFoss 2023
 
-[IndiaFoss 2023](https://indiafoss.net/2023) took place on October 28-29. I travelled to Bangalore after a long, long time.
+[IndiaFoss 2023](https://indiafoss.net/2023) took place on October 28-29 in [NIMHANS](https://nimhans.ac.in/). I travelled to Bangalore after a long, long time.
 This was a fun conference with me seeing many familiar people, meeting new people with similar interests and attending some
 fun talks in the process.
 
-<< IMAGE >>
+![IndiaFoss Fun](/indiafoss-fun.jpg "IndiaFoss'23 Fun")
 
-Ofcourse, I met my GSoC'20 gang after more than 3 long years for the first time, while keeping in very regular touch throughout!
+Ofcourse, I met my GSoC'20 gang for the first time after more than 3 long years of being in very regular touch throughout!
 
 ### Debconf'23
 
@@ -72,7 +72,8 @@ set to happen in Busan, South Korea.
 ### MiniDebconf, Villupuram
 
 [MDC Villupuram](https://tn23.mini.debconf.org/) happened from January 28 to 29 this year. This gave me an opportunity to visit
-[Chennai](https://en.wikipedia.org/wiki/Chennai) and eventually VPM. Although a short event, it was nice to meet familiar people.
+[Chennai](https://en.wikipedia.org/wiki/Chennai) and eventually VPM along with presenting a talk.
+Although a short event, it was nice to meet familiar people.
 
 << IMAGE >>
 
