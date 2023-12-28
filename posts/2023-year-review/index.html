@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <title>2023 Year Review :: My Place of Thoughts on the Internet - Example site for hugo-theme-tailwind</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.
+Debian Techincal Contributions Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well, mostly in form of contributions. I did a few new packages for gomuks being an interesting one and also took over the maintenance of kitty ."
+/>
+<meta
+  name="keywords"
+  content="hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
+/>
+<meta name="robots" content="noodp" />
+<meta property="og:title" content="2023 Year Review" />
+<meta property="og:description" content="This is a blog highlighting how 2023 went, what I did and learnt" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nileshpatra.github.io/posts/2023-year-review/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-12-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-12-28T00:00:00+00:00" />
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="2023 Year Review"/>
+<meta name="twitter:description" content="This is a blog highlighting how 2023 went, what I did and learnt"/>
+
+
+<link rel="canonical" href="https://nileshpatra.github.io/posts/2023-year-review/" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="/css/index.min.2984b70551d545d0c425a9b6c479ecb8ceb2f7cf0d8a5b1a81f88638b05a0f89.css">
+
+
+
+
+
+
+
+
+
+</head>
+<body class="w-full bg-slate-50 dark:bg-gray-800">
+  <header class="flex flex-none justify-center z-10">
+    <div class="flex flex-row gap justify-between w-full max-w-4xl lg:max-w-5xl h-12 mt-3">
+  <div class="flex-none ml-2 md:ml-0">
+    <a href="/" class="">
+      <img class="h-12 w-12 rounded-full object-cover bg-gray-100" src="/logo.webp" alt="logo">
+    </a>
+  </div>
+  <div class="flex-1"></div>
+  <div class="flex-none">
+    
+
+
+
+<nav class="h-full static">
+  <button id="navbar-menu-toggle" type="button" class="inline-flex items-center p-2 text-sm text-slate-800 dark:text-slate-200 rounded-lg md:hidden" aria-controls="navbar-menu" aria-expanded="false">
+    <span class="sr-only">Open main menu</span>
+    <i class="w-8 h-8">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu-2" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 6l16 0" />
+  <path d="M4 12l16 0" />
+  <path d="M4 18l16 0" />
+</svg>
+
+    </i>
+  </button>
+  <div class="absolute md:static top-16 left-0 right-0 z-50 hidden w-full md:block md:w-auto" id="navbar-menu">
+    <ul class="flex flex-col mx-2 md:mx-0 md:flex-row md:border-0 rounded-sm md:rounded-full px-3 text-base font-medium text-slate-800 dark:text-slate-200 shadow-lg bg-white dark:bg-gray-600 shadow-slate-800/5 dark:shadow-slate-200/5 ring-1 ring-slate-900/5 dark:ring-slate-100/5">
+    
+        <li id="about" class="">
+          <a class="block px-3 py-3 hover:text-emerald-600"
+            href="" title="About">About</a>
+        </li>
+      
+    
+        <li id="post" class="">
+          <a class="block px-3 py-3 hover:text-emerald-600 text-emerald-600"
+            href="/posts/" title="Post">Post</a>
+        </li>
+      
+    
+    </ul>
+  </div>
+</nav>
+
+
+  </div>
+  
+  <div class="flex-none mx-1"></div>
+  
+  <div class="darkmode-toggle flex flex-none mr-2 md:mr-0">
+    <label for="darkmode-toggle" class="flex items-center px-3 cursor-pointer rounded-full bg-gray-100 dark:bg-gray-600" title="Toggle dark mode">
+      <input name="darkmode-toggle" id="darkmode-toggle" type="checkbox" class="sr-only peer" aria-label="Toggle dark mode">
+      <div class="group flex flex-row gap-1 justify-center h-8 px-1 rounded-full bg-white dark:bg-gray-700">
+        <i class="h-6 w-6 flex-none rounded-full bg-yellow-400 place-self-center peer-checked:group-[]:invisible">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brightness-down" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path>
+   <path d="M12 5l0 .01"></path>
+   <path d="M17 7l0 .01"></path>
+   <path d="M19 12l0 .01"></path>
+   <path d="M17 17l0 .01"></path>
+   <path d="M12 19l0 .01"></path>
+   <path d="M7 17l0 .01"></path>
+   <path d="M5 12l0 .01"></path>
+   <path d="M7 7l0 .01"></path>
+</svg>
+
+        </i>
+        <i class="h-6 w-6 flex-none rounded-full place-self-center invisible peer-checked:group-[]:visible">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon-stars" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
+   <path d="M17 4a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2"></path>
+   <path d="M19 11h2m-1 -1v2"></path>
+</svg>
+
+        </i>
+      </div>
+    </label>
+  </div>
+</div>
+
+  </header>
+  <main class="flex flex-auto justify-center">
+    
+<div class="w-full max-w-4xl lg:max-w-5xl">
+  <div class="flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700">
+    <h1 class="text-4xl font-semibold text-slate-800 dark:text-slate-100">
+      <a href="/posts/2023-year-review/">2023 Year Review</a>
+    </h1>
+
+    
+    <h2 class="my-4 text-large text-slate-600 dark:text-slate-300">
+      This is a blog highlighting how 2023 went, what I did and learnt
+    </h2>
+    
+    
+  <ul class="flex flex-row flex-wrap text-slate-500 dark:text-slate-300">
+    
+    
+      
+      <li>
+        <a href="/tags/debian/"
+          class="flex flex-row text-sm mr-2 py-1">
+          <i class="h-5 w-5 flex-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M5 9l14 0"></path>
+   <path d="M5 15l14 0"></path>
+   <path d="M11 4l-4 16"></path>
+   <path d="M17 4l-4 16"></path>
+</svg>
+
+          </i>
+          <span class="ml-0">debian</span>
+        </a>
+      </li>
+      
+      <li>
+        <a href="/tags/life/"
+          class="flex flex-row text-sm mr-2 py-1">
+          <i class="h-5 w-5 flex-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M5 9l14 0"></path>
+   <path d="M5 15l14 0"></path>
+   <path d="M11 4l-4 16"></path>
+   <path d="M17 4l-4 16"></path>
+</svg>
+
+          </i>
+          <span class="ml-0">life</span>
+        </a>
+      </li>
+      
+      <li>
+        <a href="/tags/offtopic/"
+          class="flex flex-row text-sm mr-2 py-1">
+          <i class="h-5 w-5 flex-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M5 9l14 0"></path>
+   <path d="M5 15l14 0"></path>
+   <path d="M11 4l-4 16"></path>
+   <path d="M17 4l-4 16"></path>
+</svg>
+
+          </i>
+          <span class="ml-0">offtopic</span>
+        </a>
+      </li>
+      
+    
+  </ul>
+
+
+
+    <div class="flex flex-col gap-y-1 md:flex-row md:gap-y-0 md:gap-x-4 text-slate-500 dark:text-slate-300">
+  
+  
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12z"></path>
+   <path d="M16 3v4"></path>
+   <path d="M8 3v4"></path>
+   <path d="M4 11h16"></path>
+   <path d="M11 15h1"></path>
+   <path d="M12 15v3"></path>
+</svg>
+
+    </i>
+    <time datetime="2023-12-28T00:00:00&#43;00:00">
+      2023-12-28
+    </time>
+  </div>
+
+  <div class="flex flex-row text-base gap-x-1">
+    <i class="h-6 w-6 flex-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M6.5 7h11"></path>
+   <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+   <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
+</svg>
+
+    </i>
+    <span>
+      5 minutes to read
+    </span>
+  </div>
+</div>
+
+
+    
+      
+      <section class="prose prose-slate dark:prose-invert w-full max-w-4xl lg:max-w-5xl mt-6">
+        <h2>Table of Contents</h2>
+        <aside><nav id="TableOfContents">
+  <ul>
+    <li><a href="#debian">Debian</a>
+      <ul>
+        <li><a href="#techincal-contributions">Techincal Contributions</a></li>
+        <li><a href="#aming-for-dd-applications">AM&rsquo;ing for DD applications</a></li>
+        <li><a href="#mentoring-and-outreach">Mentoring and Outreach</a></li>
+      </ul>
+    </li>
+    <li><a href="#conferences">Conferences</a>
+      <ul>
+        <li><a href="#indiafoss-2023">IndiaFoss 2023</a></li>
+        <li><a href="#debconf23">Debconf'23</a></li>
+        <li><a href="#minidebconf-villupuram">MiniDebconf, Villupuram</a></li>
+      </ul>
+    </li>
+    <li><a href="#abraham-raji">Abraham Raji</a></li>
+    <li><a href="#new-skills">New Skills</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav></aside>
+      </section>
+      
+    
+
+    <article class="mt-6 w-full max-w-4xl lg:max-w-5xl prose prose-slate dark:prose-invert prose-quoteless post-content">
+      <p>This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.</p>
+<h2 id="debian">Debian</h2>
+<h3 id="techincal-contributions">Techincal Contributions</h3>
+<p>Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well,
+mostly in form of contributions. I did a few new packages for <a href="https://tracker.debian.org/pkg/gomuks" target="_blank" rel="noopener">gomuks</a>
+ being an interesting one and also took over the maintenance of <a href="https://tracker.debian.org/pkg/kitty" target="_blank" rel="noopener">kitty</a>
+.
+Along with this, I sponsored a bunch of packages, reviewed MRs and pushed commits
+to <a href="https://tracker.debian.org/pkg/lintian" target="_blank" rel="noopener">lintian</a>
+ and did some mentoring.</p>
+<p>Comparing the salsa activity graph of past years, my activity, very clearly dwindled a bit.</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/2021-salsa.png"
+      alt="Salsa 2021 Contributions"  title="Salsa 2021 Contributions" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">Salsa 2021 Contributions</figcaption>
+  </figure></div>
+
+<div class="not-prose">
+<figure>
+    <img src="/2022-salsa.png"
+      alt="Salsa 2022 Contributions"  title="Salsa 2022 Contributions" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">Salsa 2022 Contributions</figcaption>
+  </figure></div>
+
+<div class="not-prose">
+<figure>
+    <img src="/2023-salsa.png"
+      alt="Salsa 2023 Contributions"  title="Salsa 2023 Contributions" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">Salsa 2023 Contributions</figcaption>
+  </figure></div>
+</p>
+<p>This was mostly due to me becoming busier with real life activities and day job becoming more hectic. Nevertheless, I am happy with
+whatever I could contribute.</p>
+<h3 id="aming-for-dd-applications">AM&rsquo;ing for DD applications</h3>
+<p>I have been an application manager since August 2022. This means I &ldquo;interview&rdquo; upcoming <a href="https://wiki.debian.org/DebianDeveloper" target="_blank" rel="noopener">Debian Developers</a>
+, guiding them through the <a href="https://wiki.debian.org/DebianDeveloper/JoinTheProject/NewMember#Step_5:_The_Application_Manager" target="_blank" rel="noopener">NM process</a>
+.
+This year I processed and approved 5 applications and processing one application at the moment which is ongoing.</p>
+<h3 id="mentoring-and-outreach">Mentoring and Outreach</h3>
+<p>I was formally <a href="https://lists.debian.org/debian-devel-announce/2023/11/msg00004.html" target="_blank" rel="noopener">delegated</a>
+ as a member of the <a href="https://wiki.debian.org/Teams/Outreach" target="_blank" rel="noopener">Debian Outreach Team</a>
+.
+This started with me asking <a href="https://abhijithpa.me/" target="_blank" rel="noopener">Abhijith</a>
+ if I could help to coordinate Google Summer of Code activities within Debian and the rest of the process was done very quickly post that.</p>
+<p>I am also mentoring in this <a href="https://www.outreachy.org/alums/2023-12/" target="_blank" rel="noopener">Outreachy December 23 Round</a>
+ for the first time with <a href="https://komolehin.dreamwidth.org/" target="_blank" rel="noopener">Israel</a>
+ being my mentee. This is a different experience, with tons of &ldquo;mentor&rdquo; assignments and some nice
+mentoring pointers from the Outreachy Organizers. It seems they are doing a really good job with the Organizational bits.</p>
+<h2 id="conferences">Conferences</h2>
+<h3 id="indiafoss-2023">IndiaFoss 2023</h3>
+<p><a href="https://indiafoss.net/2023" target="_blank" rel="noopener">IndiaFoss 2023</a>
+ took place on October 28-29 in <a href="https://nimhans.ac.in/" target="_blank" rel="noopener">NIMHANS</a>
+. I travelled to Bangalore after a long, long time.
+This was a fun conference with me seeing many familiar people, meeting new people with similar interests and attending some
+fun talks in the process.</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/indiafoss-fun.jpg"
+      alt="IndiaFoss Fun"  title="IndiaFoss&#39;23 Fun" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">IndiaFoss'23 Fun</figcaption>
+  </figure></div>
+</p>
+<p>Ofcourse, I met my GSoC'20 gang for the first time after more than 3 long years of being in very regular touch throughout!</p>
+<h3 id="debconf23">Debconf'23</h3>
+<p>I attended <a href="https://debconf23.debconf.org/" target="_blank" rel="noopener">Debconf'23</a>
+ that happened from September 10 to 17 in <a href="https://en.wikipedia.org/wiki/Kochi" target="_blank" rel="noopener">Kochi, India</a>
+.
+This was an entirely new experience with meeting lots of new and old folks, many of whom I had been working for
+years but never got a chance to meet. Those nicks that I would see popping up from time to time on IRC now have faces!</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/dc23.jpg"
+      alt="DC23 Fun"  title="DebConf 2023" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">DebConf 2023</figcaption>
+  </figure></div>
+</p>
+<p>This meant a week full of relaxation, attending workshops and talks, working on Debian, having a casual chat, having meals
+with interesting people and ofcourse, roaming around in Kochi 😀</p>
+<p>This was an enjoyable experience and would definitely attend the next edition in 2024 which is
+set to happen in Busan, South Korea.</p>
+<h3 id="minidebconf-villupuram">MiniDebconf, Villupuram</h3>
+<p><a href="https://tn23.mini.debconf.org/" target="_blank" rel="noopener">MDC Villupuram</a>
+ happened from January 28 to 29 this year. This gave me an opportunity to visit
+<a href="https://en.wikipedia.org/wiki/Chennai" target="_blank" rel="noopener">Chennai</a>
+ and eventually VPM along with presenting a talk.
+Although a short event, it was nice to meet familiar people.</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/mdctn23.jpg"
+      alt="MDC VPM"  title="MDC Villupuram" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">MDC Villupuram</figcaption>
+  </figure></div>
+</p>
+<p>As an addendum, I gave myself an opportunity (😜) to visit <a href="https://en.wikipedia.org/wiki/Pondicherry" target="_blank" rel="noopener">Puducherry</a>
+ which was
+a very enjoyable experience with serene beaches all around. This is a place that I&rsquo;d definitely want to give a visit again!</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/pdy-2023.jpg"
+      alt="PDY"  title="Puducherry Beaches and Tourist Spots" 
+      loading="lazy"
+    ><figcaption class="text-sm text-center text-slate-500 dark:text-slate-300">Puducherry Beaches and Tourist Spots</figcaption>
+  </figure></div>
+</p>
+<h2 id="abraham-raji">Abraham Raji</h2>
+<p>This deserves a blog post of its own. The most tragic incident of this year was loss of a dear friend, Abraham Raji
+in a <a href="https://www.debian.org/News/2023/20230914" target="_blank" rel="noopener">tragic accident</a>
+.</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/abraham-1.jpg"
+      alt="avronr1" 
+      loading="lazy"
+    >
+  </figure></div>
+</p>
+<p>I have known Abraham since 2019 and saw him as a very active contributor since then, helping and popping into
+different channels. I will always remember that smile which would instantly light up the room.</p>
+<p><div class="not-prose">
+<figure>
+    <img src="/abraham-2.jpg"
+      alt="avronr2" 
+      loading="lazy"
+    >
+  </figure></div>
+</p>
+<p>Web Development, Graphic Designing, Mentoring, Debian Development - this man left no skill untouched. I was always
+impressed by the sheer amount of things he was doing and it will always serve as an inspiration for me. And ofcourse, Abraham&rsquo;s
+<a href="https://wiki.abrahamraji.in/simple-packaging-tutorial.html" target="_blank" rel="noopener">Debian Packaging Guide</a>
+ is a goto place for newcomers to look into.</p>
+<p>Maybe I should&rsquo;ve expressed that even I <em>too</em> use these series of immensely helpful tutorials from time to time when I need
+to re-create my environment.
+I was also very impressed by the depth of thoughts Abraham had and would read <a href="https://abrahamraji.in/post/" target="_blank" rel="noopener">his blog</a>
+ from
+time to time. One heck of a talented man, indeed!</p>
+<p>Needless to say, I miss him greatly. Au revoir my friend, see you in another life - or later in this one!</p>
+<h2 id="new-skills">New Skills</h2>
+<p>This year had been rather slow with respect to learning new things. The day job and Debian activities would consume most part
+of my day leaving little time for any extra learning. Nevertheless, I studied Networking, probably did this properly for the
+first time after college, picked up some Cloud Engineering, learnt a bit of Reverse Engineering and CyberSecurity stuff.</p>
+<p>This may sound like a lot, but I actually did only bits of most of these 😕
+I intend to change this in the coming year and spend some more time on <em>myself</em> and <em>new skills</em>.</p>
+<p>Besides, I also learnt some new stuff at dayjob being put into multiple projects and then given different (optimization)
+tasks in between the projects.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Overall, I did a bunch of travel, met new (and old) folks and got some cool stuff done. I and my loved ones have been
+in fine health throughout for which I am greatful to the Almighty. This was a fine year overall; I however do look forward an
+even better 2024.</p>
+
+    </article>
+
+    
+
+
+
+  </div>
+</div>
+
+  </main>
+  <footer class="flex flex-none justify-center">
+    <section class="flex flex-col md:flex-row mx-2 md:mx-0 gap-2 md:gap-0 justify-between w-full max-w-4xl lg:max-w-5xl py-6 text-slate-500 dark:text-slate-300">
+  <div class="flex flex-row">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  </div>
+  <div class="grow"></div>
+  <div class="flex flex-row">
+    <i class="h-6 w-6 flex-none"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+   <path d="M14 9.75a3.016 3.016 0 0 0 -4.163 .173a2.993 2.993 0 0 0 0 4.154a3.016 3.016 0 0 0 4.163 .173"></path>
+</svg>
+</i> 2023 Nilesh Patra
+    
+  </div>
+  
+  <div class="flex flex-row">
+    <span class="ml-0 pl-0 md:ml-2 md:pl-2 border-l-0 md:border-l border-slate-300 dark:border-slate-400">
+      Powered by <a href="https://gohugo.io" target="_blank" rel="noopener" class="underline">Hugo</a> <span class="text-red-600">&hearts;</span> <a href="https://github.com/tomowang/hugo-theme-tailwind" target="_blank" rel="noopener" class="underline">Tailwind</a>
+    </span>
+  </div>
+  
+</section>
+
+  </footer><script src="/main.min.c6372b6836971865bd94bfde974748aca8415824a2facab6ccd66a87384bfacb.js"></script>
+
+</body>
+</html>
