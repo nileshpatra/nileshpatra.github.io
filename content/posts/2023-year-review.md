@@ -84,7 +84,7 @@ a very enjoyable experience with serene beaches all around. This is a place that
 
 ## Abraham Raji
 
-This deserves a blog post of its own. The most tragic incident of this year was loss of a dear friend, Abraham Raji
+This deserves a blog post of its own. The most sad and shocking incident of this year was loss of a dear friend, Abraham Raji
 in a [tragic accident](https://www.debian.org/News/2023/20230914).
 
 ![avronr1](/abraham-1.jpg "")
