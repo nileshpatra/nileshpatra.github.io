@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>offtopic on My Place of Thoughts on the Internet</title>
-    <link>https://nileshpatra.github.io/tags/offtopic/</link>
-    <description>Recent content in offtopic on My Place of Thoughts on the Internet</description>
+    <title>Skills on My Place of Thoughts on the Internet</title>
+    <link>https://nileshpatra.github.io/categories/skills/</link>
+    <description>Recent content in Skills on My Place of Thoughts on the Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Nilesh Patra</copyright>
     <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nileshpatra.github.io/tags/offtopic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nileshpatra.github.io/categories/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Year Review</title>
       <link>https://nileshpatra.github.io/posts/2023-year-review/</link>
@@ -16,7 +16,7 @@
       <guid>https://nileshpatra.github.io/posts/2023-year-review/</guid>
       <description>&lt;p&gt;This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.&lt;/p&gt;
 &lt;h2 id=&#34;debian&#34;&gt;Debian&lt;/h2&gt;
-&lt;h3 id=&#34;techincal-contributions&#34;&gt;Techincal Contributions&lt;/h3&gt;
+&lt;h3 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h3&gt;
 &lt;p&gt;Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well,
 mostly in form of contributions. I did a few new packages for &lt;a href=&#34;https://tracker.debian.org/pkg/gomuks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gomuks&lt;/a&gt;
  being an interesting one and also took over the maintenance of &lt;a href=&#34;https://tracker.debian.org/pkg/kitty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kitty&lt;/a&gt;
@@ -81,7 +81,7 @@ fun talks in the process.&lt;/p&gt;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;IndiaFoss&#39;23 Fun&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;Ofcourse, I met my GSoC&#39;20 gang for the first time after more than 3 long years of being in very regular touch throughout!&lt;/p&gt;
+&lt;p&gt;Of course, I met my GSoC&#39;20 gang for the first time after more than 3 long years of being in very regular touch throughout!&lt;/p&gt;
 &lt;h3 id=&#34;debconf23&#34;&gt;Debconf&#39;23&lt;/h3&gt;
 &lt;p&gt;I attended &lt;a href=&#34;https://debconf23.debconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debconf&#39;23&lt;/a&gt;
  that happened from September 10 to 17 in &lt;a href=&#34;https://en.wikipedia.org/wiki/Kochi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kochi, India&lt;/a&gt;
@@ -97,7 +97,7 @@ years but never got a chance to meet. Those nicks that I would see popping up fr
   &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;This meant a week full of relaxation, attending workshops and talks, working on Debian, having a casual chat, having meals
-with interesting people and ofcourse, roaming around in Kochi 😀&lt;/p&gt;
+with interesting people and of course, roaming around in Kochi 😀&lt;/p&gt;
 &lt;p&gt;This was an enjoyable experience and would definitely attend the next edition in 2024 which is
 set to happen in Busan, South Korea.&lt;/p&gt;
 &lt;h3 id=&#34;minidebconf-villupuram&#34;&gt;MiniDebconf, Villupuram&lt;/h3&gt;
@@ -148,7 +148,7 @@ different channels. I will always remember that smile which would instantly ligh
   &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;Web Development, Graphic Designing, Mentoring, Debian Development - this man left no skill untouched. I was always
-impressed by the sheer amount of things he was doing and it will always serve as an inspiration for me. And ofcourse, Abraham&amp;rsquo;s
+impressed by the sheer amount of things he was doing and it will always serve as an inspiration for me. And of course, Abraham&amp;rsquo;s
 &lt;a href=&#34;https://wiki.abrahamraji.in/simple-packaging-tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian Packaging Guide&lt;/a&gt;
  is a goto place for newcomers to look into.&lt;/p&gt;
 &lt;p&gt;Maybe I should&amp;rsquo;ve expressed that even I &lt;em&gt;too&lt;/em&gt; use these series of immensely helpful tutorials from time to time when I need
@@ -160,14 +160,14 @@ time to time. One heck of a talented man, indeed!&lt;/p&gt;
 &lt;h2 id=&#34;new-skills&#34;&gt;New Skills&lt;/h2&gt;
 &lt;p&gt;This year had been rather slow with respect to learning new things. The day job and Debian activities would consume most part
 of my day leaving little time for any extra learning. Nevertheless, I studied Networking, probably did this properly for the
-first time after college, picked up some Cloud Engineering, learnt a bit of Reverse Engineering and CyberSecurity stuff.&lt;/p&gt;
+first time after college, picked up some Cloud Engineering, leaned a bit of Reverse Engineering and CyberSecurity stuff.&lt;/p&gt;
 &lt;p&gt;This may sound like a lot, but I actually did only bits of most of these 😕
 I intend to change this in the coming year and spend some more time on &lt;em&gt;myself&lt;/em&gt; and &lt;em&gt;new skills&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Besides, I also learnt some new stuff at dayjob being put into multiple projects and then given different (optimization)
+&lt;p&gt;Besides, I also leaned some new stuff at day-job being put into multiple projects and then given different (optimization)
 tasks in between the projects.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Overall, I did a bunch of travel, met new (and old) folks and got some cool stuff done. I and my loved ones have been
-in fine health throughout for which I am greatful to the Almighty. This was a fine year overall; I however do look forward an
+in fine health throughout for which I am grateful to the Almighty. This was a fine year overall; I however do look forward an
 even better 2024.&lt;/p&gt;
 </description>
     </item>

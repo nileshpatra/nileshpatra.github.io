@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on My Place of Thoughts on the Internet</title>
-    <link>https://nileshpatra.github.io/tags/life/</link>
-    <description>Recent content in life on My Place of Thoughts on the Internet</description>
+    <title>Open Source on My Place of Thoughts on the Internet</title>
+    <link>https://nileshpatra.github.io/categories/open-source/</link>
+    <description>Recent content in Open Source on My Place of Thoughts on the Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Nilesh Patra</copyright>
     <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nileshpatra.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nileshpatra.github.io/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Year Review</title>
       <link>https://nileshpatra.github.io/posts/2023-year-review/</link>

@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Nilesh Patra</copyright>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nileshpatra.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source</title>
+      <link>https://nileshpatra.github.io/categories/open-source/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nileshpatra.github.io/categories/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>https://nileshpatra.github.io/categories/skills/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nileshpatra.github.io/categories/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://nileshpatra.github.io/categories/tech/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nileshpatra.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
