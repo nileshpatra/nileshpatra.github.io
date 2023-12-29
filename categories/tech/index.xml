@@ -49,8 +49,11 @@ to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blan
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2023 Contributions&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;This was mostly due to me becoming busier with real life activities and day job becoming more hectic. Nevertheless, I am happy with
-whatever I could contribute.&lt;/p&gt;
+&lt;p&gt;This was mostly due to me becoming busier with real life activities and day job becoming more hectic.
+Another reason is an &lt;a href=&#34;https://release.debian.org/bookworm/freeze_policy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;archive freeze&lt;/a&gt;
+ (which is generally a period of less activity) due to &lt;a href=&#34;https://www.debian.org/releases/bookworm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bookworm Release&lt;/a&gt;
+ and I allowed myself to rest during that period.
+Nevertheless, I am happy with whatever I could contribute.&lt;/p&gt;
 &lt;h3 id=&#34;aming-for-dd-applications&#34;&gt;AM&amp;rsquo;ing for DD applications&lt;/h3&gt;
 &lt;p&gt;I have been an application manager since August 2022. This means I &amp;ldquo;interview&amp;rdquo; upcoming &lt;a href=&#34;https://wiki.debian.org/DebianDeveloper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian Developers&lt;/a&gt;
 , guiding them through the &lt;a href=&#34;https://wiki.debian.org/DebianDeveloper/JoinTheProject/NewMember#Step_5:_The_Application_Manager&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NM process&lt;/a&gt;
