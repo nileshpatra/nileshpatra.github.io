@@ -31,7 +31,7 @@ Comparing the salsa activity graph of past years, my activity, very clearly dwin
 ![Salsa 2022 Contributions](/2022-salsa.png "Salsa 2022 Contributions")
 ![Salsa 2023 Contributions](/2023-salsa.png "Salsa 2023 Contributions")
 
-This was mostly due to me becoming busier with real life activities and day job becoming more hectic.
+This was mostly due to me becoming busier with real life activities and day-job becoming more hectic.
 Another reason is an [archive freeze](https://release.debian.org/bookworm/freeze_policy.html) (which is generally a period of less activity) due to [Bookworm Release](https://www.debian.org/releases/bookworm/) and I allowed myself to rest during that period.
 Nevertheless, I am happy with whatever I could contribute.
 
@@ -112,7 +112,7 @@ Needless to say, I miss him greatly. Au revoir my friend, see you in another lif
 
 ## New Skills
 
-This year had been rather slow with respect to learning new things. The day job and Debian activities would consume most part
+This year had been rather slow with respect to learning new things. The day-job and Debian activities would consume most part
 of my day leaving little time for any extra learning. Nevertheless, I studied Networking, probably did this properly for the
 first time after college, picked up some Cloud Engineering, leaned a bit of Reverse Engineering and CyberSecurity stuff.
 
