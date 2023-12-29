@@ -14,7 +14,162 @@
       <link>https://nileshpatra.github.io/posts/2023-year-review/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://nileshpatra.github.io/posts/2023-year-review/</guid>
-      <description>This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.&#xA;Debian Techincal Contributions Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well, mostly in form of contributions. I did a few new packages for gomuks being an interesting one and also took over the maintenance of kitty .</description>
+      <description>&lt;p&gt;This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.&lt;/p&gt;
+&lt;h2 id=&#34;debian&#34;&gt;Debian&lt;/h2&gt;
+&lt;h3 id=&#34;techincal-contributions&#34;&gt;Techincal Contributions&lt;/h3&gt;
+&lt;p&gt;Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well,
+mostly in form of contributions. I did a few new packages for &lt;a href=&#34;https://tracker.debian.org/pkg/gomuks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gomuks&lt;/a&gt;
+ being an interesting one and also took over the maintenance of &lt;a href=&#34;https://tracker.debian.org/pkg/kitty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kitty&lt;/a&gt;
+.
+Along with this, I sponsored a bunch of packages, reviewed MRs and pushed commits
+to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lintian&lt;/a&gt;
+ and did some mentoring.&lt;/p&gt;
+&lt;p&gt;Comparing the salsa activity graph of past years, my activity, very clearly dwindled a bit.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/2021-salsa.png&#34;
+      alt=&#34;Salsa 2021 Contributions&#34;  title=&#34;Salsa 2021 Contributions&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2021 Contributions&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+
+&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/2022-salsa.png&#34;
+      alt=&#34;Salsa 2022 Contributions&#34;  title=&#34;Salsa 2022 Contributions&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2022 Contributions&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+
+&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/2023-salsa.png&#34;
+      alt=&#34;Salsa 2023 Contributions&#34;  title=&#34;Salsa 2023 Contributions&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2023 Contributions&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;This was mostly due to me becoming busier with real life activities and day job becoming more hectic. Nevertheless, I am happy with
+whatever I could contribute.&lt;/p&gt;
+&lt;h3 id=&#34;aming-for-dd-applications&#34;&gt;AM&amp;rsquo;ing for DD applications&lt;/h3&gt;
+&lt;p&gt;I have been an application manager since August 2022. This means I &amp;ldquo;interview&amp;rdquo; upcoming &lt;a href=&#34;https://wiki.debian.org/DebianDeveloper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian Developers&lt;/a&gt;
+, guiding them through the &lt;a href=&#34;https://wiki.debian.org/DebianDeveloper/JoinTheProject/NewMember#Step_5:_The_Application_Manager&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NM process&lt;/a&gt;
+.
+This year I processed and approved 5 applications and processing one application at the moment which is ongoing.&lt;/p&gt;
+&lt;h3 id=&#34;mentoring-and-outreach&#34;&gt;Mentoring and Outreach&lt;/h3&gt;
+&lt;p&gt;I was formally &lt;a href=&#34;https://lists.debian.org/debian-devel-announce/2023/11/msg00004.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;delegated&lt;/a&gt;
+ as a member of the &lt;a href=&#34;https://wiki.debian.org/Teams/Outreach&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian Outreach Team&lt;/a&gt;
+.
+This started with me asking &lt;a href=&#34;https://abhijithpa.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abhijith&lt;/a&gt;
+ if I could help to coordinate Google Summer of Code activities within Debian and the rest of the process was done very quickly post that.&lt;/p&gt;
+&lt;p&gt;I am also mentoring in this &lt;a href=&#34;https://www.outreachy.org/alums/2023-12/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outreachy December 23 Round&lt;/a&gt;
+ for the first time with &lt;a href=&#34;https://komolehin.dreamwidth.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Israel&lt;/a&gt;
+ being my mentee. This is a different experience, with tons of &amp;ldquo;mentor&amp;rdquo; assignments and some nice
+mentoring pointers from the Outreachy Organizers. It seems they are doing a really good job with the Organizational bits.&lt;/p&gt;
+&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;
+&lt;h3 id=&#34;indiafoss-2023&#34;&gt;IndiaFoss 2023&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://indiafoss.net/2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IndiaFoss 2023&lt;/a&gt;
+ took place on October 28-29 in &lt;a href=&#34;https://nimhans.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIMHANS&lt;/a&gt;
+. I travelled to Bangalore after a long, long time.
+This was a fun conference with me seeing many familiar people, meeting new people with similar interests and attending some
+fun talks in the process.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/indiafoss-fun.jpg&#34;
+      alt=&#34;IndiaFoss Fun&#34;  title=&#34;IndiaFoss&amp;#39;23 Fun&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;IndiaFoss&#39;23 Fun&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Ofcourse, I met my GSoC&#39;20 gang for the first time after more than 3 long years of being in very regular touch throughout!&lt;/p&gt;
+&lt;h3 id=&#34;debconf23&#34;&gt;Debconf&#39;23&lt;/h3&gt;
+&lt;p&gt;I attended &lt;a href=&#34;https://debconf23.debconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debconf&#39;23&lt;/a&gt;
+ that happened from September 10 to 17 in &lt;a href=&#34;https://en.wikipedia.org/wiki/Kochi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kochi, India&lt;/a&gt;
+.
+This was an entirely new experience with meeting lots of new and old folks, many of whom I had been working for
+years but never got a chance to meet. Those nicks that I would see popping up from time to time on IRC now have faces!&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/dc23.jpg&#34;
+      alt=&#34;DC23 Fun&#34;  title=&#34;DebConf 2023&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;DebConf 2023&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;This meant a week full of relaxation, attending workshops and talks, working on Debian, having a casual chat, having meals
+with interesting people and ofcourse, roaming around in Kochi 😀&lt;/p&gt;
+&lt;p&gt;This was an enjoyable experience and would definitely attend the next edition in 2024 which is
+set to happen in Busan, South Korea.&lt;/p&gt;
+&lt;h3 id=&#34;minidebconf-villupuram&#34;&gt;MiniDebconf, Villupuram&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://tn23.mini.debconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDC Villupuram&lt;/a&gt;
+ happened from January 28 to 29 this year. This gave me an opportunity to visit
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Chennai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chennai&lt;/a&gt;
+ and eventually VPM along with presenting a talk.
+Although a short event, it was nice to meet familiar people.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/mdctn23.jpg&#34;
+      alt=&#34;MDC VPM&#34;  title=&#34;MDC Villupuram&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;MDC Villupuram&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;As an addendum, I gave myself an opportunity (😜) to visit &lt;a href=&#34;https://en.wikipedia.org/wiki/Pondicherry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Puducherry&lt;/a&gt;
+ which was
+a very enjoyable experience with serene beaches all around. This is a place that I&amp;rsquo;d definitely want to give a visit again!&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/pdy-2023.jpg&#34;
+      alt=&#34;PDY&#34;  title=&#34;Puducherry Beaches and Tourist Spots&#34; 
+      loading=&#34;lazy&#34;
+    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Puducherry Beaches and Tourist Spots&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;abraham-raji&#34;&gt;Abraham Raji&lt;/h2&gt;
+&lt;p&gt;This deserves a blog post of its own. The most sad and shocking incident of this year was loss of a dear friend, Abraham Raji
+in a &lt;a href=&#34;https://www.debian.org/News/2023/20230914&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tragic accident&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/abraham-1.jpg&#34;
+      alt=&#34;avronr1&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;I have known Abraham since 2019 and saw him as a very active contributor since then, helping and popping into
+different channels. I will always remember that smile which would instantly light up the room.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://nileshpatra.github.io/abraham-2.jpg&#34;
+      alt=&#34;avronr2&#34; 
+      loading=&#34;lazy&#34;
+    &gt;
+  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Web Development, Graphic Designing, Mentoring, Debian Development - this man left no skill untouched. I was always
+impressed by the sheer amount of things he was doing and it will always serve as an inspiration for me. And ofcourse, Abraham&amp;rsquo;s
+&lt;a href=&#34;https://wiki.abrahamraji.in/simple-packaging-tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian Packaging Guide&lt;/a&gt;
+ is a goto place for newcomers to look into.&lt;/p&gt;
+&lt;p&gt;Maybe I should&amp;rsquo;ve expressed that even I &lt;em&gt;too&lt;/em&gt; use these series of immensely helpful tutorials from time to time when I need
+to re-create my environment.
+I was also very impressed by the depth of thoughts Abraham had and would read &lt;a href=&#34;https://abrahamraji.in/post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;his blog&lt;/a&gt;
+ from
+time to time. One heck of a talented man, indeed!&lt;/p&gt;
+&lt;p&gt;Needless to say, I miss him greatly. Au revoir my friend, see you in another life - or later in this one!&lt;/p&gt;
+&lt;h2 id=&#34;new-skills&#34;&gt;New Skills&lt;/h2&gt;
+&lt;p&gt;This year had been rather slow with respect to learning new things. The day job and Debian activities would consume most part
+of my day leaving little time for any extra learning. Nevertheless, I studied Networking, probably did this properly for the
+first time after college, picked up some Cloud Engineering, learnt a bit of Reverse Engineering and CyberSecurity stuff.&lt;/p&gt;
+&lt;p&gt;This may sound like a lot, but I actually did only bits of most of these 😕
+I intend to change this in the coming year and spend some more time on &lt;em&gt;myself&lt;/em&gt; and &lt;em&gt;new skills&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Besides, I also learnt some new stuff at dayjob being put into multiple projects and then given different (optimization)
+tasks in between the projects.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Overall, I did a bunch of travel, met new (and old) folks and got some cool stuff done. I and my loved ones have been
+in fine health throughout for which I am greatful to the Almighty. This was a fine year overall; I however do look forward an
+even better 2024.&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
