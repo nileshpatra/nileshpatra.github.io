@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on My Place of Thoughts on the Internet</title>
-    <link>https://nileshpatra.github.io/categories/open-source/</link>
+    <link>https://blog.nileshpatra.com/categories/open-source/</link>
     <description>Recent content in Open Source on My Place of Thoughts on the Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Nilesh Patra</copyright>
     <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nileshpatra.github.io/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.nileshpatra.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Year Review</title>
-      <link>https://nileshpatra.github.io/posts/2023-year-review/</link>
+      <link>https://blog.nileshpatra.com/posts/2023-year-review/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nileshpatra.github.io/posts/2023-year-review/</guid>
+      <guid>https://blog.nileshpatra.com/posts/2023-year-review/</guid>
       <description>&lt;p&gt;This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.&lt;/p&gt;
 &lt;h2 id=&#34;debian&#34;&gt;Debian&lt;/h2&gt;
 &lt;h3 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h3&gt;
@@ -27,7 +27,7 @@ to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blan
 &lt;p&gt;Comparing the salsa activity graph of past years, my activity, very clearly dwindled a bit.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/2021-salsa.png&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/2021-salsa.png&#34;
       alt=&#34;Salsa 2021 Contributions&#34;  title=&#34;Salsa 2021 Contributions&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2021 Contributions&lt;/figcaption&gt;
@@ -35,7 +35,7 @@ to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blan
 
 &lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/2022-salsa.png&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/2022-salsa.png&#34;
       alt=&#34;Salsa 2022 Contributions&#34;  title=&#34;Salsa 2022 Contributions&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2022 Contributions&lt;/figcaption&gt;
@@ -43,7 +43,7 @@ to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blan
 
 &lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/2023-salsa.png&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/2023-salsa.png&#34;
       alt=&#34;Salsa 2023 Contributions&#34;  title=&#34;Salsa 2023 Contributions&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Salsa 2023 Contributions&lt;/figcaption&gt;
@@ -78,7 +78,7 @@ This was a fun conference with me seeing many familiar people, meeting new peopl
 fun talks in the process.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/indiafoss-fun.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/indiafoss-fun.jpg&#34;
       alt=&#34;IndiaFoss Fun&#34;  title=&#34;IndiaFoss&amp;#39;23 Fun&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;IndiaFoss&#39;23 Fun&lt;/figcaption&gt;
@@ -93,7 +93,7 @@ This was an entirely new experience with meeting lots of new and old folks, many
 years but never got a chance to meet. Those nicks that I would see popping up from time to time on IRC now have faces!&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/dc23.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/dc23.jpg&#34;
       alt=&#34;DC23 Fun&#34;  title=&#34;DebConf 2023&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;DebConf 2023&lt;/figcaption&gt;
@@ -111,7 +111,7 @@ set to happen in Busan, South Korea.&lt;/p&gt;
 Although a short event, it was nice to meet familiar people.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/mdctn23.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/mdctn23.jpg&#34;
       alt=&#34;MDC VPM&#34;  title=&#34;MDC Villupuram&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;MDC Villupuram&lt;/figcaption&gt;
@@ -122,7 +122,7 @@ Although a short event, it was nice to meet familiar people.&lt;/p&gt;
 a very enjoyable experience with serene beaches all around. This is a place that I&amp;rsquo;d definitely want to give a visit again!&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/pdy-2023.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/pdy-2023.jpg&#34;
       alt=&#34;PDY&#34;  title=&#34;Puducherry Beaches and Tourist Spots&#34; 
       loading=&#34;lazy&#34;
     &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Puducherry Beaches and Tourist Spots&lt;/figcaption&gt;
@@ -134,7 +134,7 @@ in a &lt;a href=&#34;https://www.debian.org/News/2023/20230914&#34; target=&#34;
 .&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/abraham-1.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/abraham-1.jpg&#34;
       alt=&#34;avronr1&#34; 
       loading=&#34;lazy&#34;
     &gt;
@@ -144,7 +144,7 @@ in a &lt;a href=&#34;https://www.debian.org/News/2023/20230914&#34; target=&#34;
 different channels. I will always remember that smile which would instantly light up the room.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://nileshpatra.github.io/abraham-2.jpg&#34;
+    &lt;img src=&#34;https://blog.nileshpatra.com/abraham-2.jpg&#34;
       alt=&#34;avronr2&#34; 
       loading=&#34;lazy&#34;
     &gt;
