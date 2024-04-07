@@ -14,16 +14,15 @@ categories = [
 ]
 +++
 
-This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.
+This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter the most.
 
 ## Debian
 
 ### Technical Contributions
 
 Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well,
-mostly in form of contributions. I did a few new packages for [gomuks](https://tracker.debian.org/pkg/gomuks) being an interesting one and also took over the maintenance of [kitty](https://tracker.debian.org/pkg/kitty).
-Along with this, I sponsored a bunch of packages, reviewed MRs and pushed commits
-to [lintian](https://tracker.debian.org/pkg/lintian) and did some mentoring.
+mostly in form of contributions. I did a few new packages of which [gomuks](https://tracker.debian.org/pkg/gomuks) is an interesting one and also took over the maintenance of [kitty](https://tracker.debian.org/pkg/kitty).
+Along with this, I sponsored a bunch of packages, reviewed MRs on [lintian](https://tracker.debian.org/pkg/lintian), pushed commits and did some mentoring.
 
 Comparing the salsa activity graph of past years, my activity, very clearly dwindled a bit.
 
@@ -125,5 +124,5 @@ tasks in between the projects.
 ## Conclusion
 
 Overall, I did a bunch of travel, met new (and old) folks and got some cool stuff done. I and my loved ones have been
-in fine health throughout for which I am grateful to the Almighty. This was a fine year overall; I however do look forward an
+in fine health throughout for which I am grateful to the Almighty. This was a fine year overall. I however do look forward to an
 even better 2024.
