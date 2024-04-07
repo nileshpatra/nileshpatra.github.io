@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on My Place of Thoughts on the Internet</title>
+    <title>Life on My Place of Thoughts on the Internet</title>
     <link>https://blog.nileshpatra.com/tags/life/</link>
-    <description>Recent content in life on My Place of Thoughts on the Internet</description>
+    <description>Recent content in Life on My Place of Thoughts on the Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Nilesh Patra</copyright>
@@ -14,16 +14,15 @@
       <link>https://blog.nileshpatra.com/posts/2023-year-review/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.nileshpatra.com/posts/2023-year-review/</guid>
-      <description>&lt;p&gt;This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter most.&lt;/p&gt;
+      <description>&lt;p&gt;This article offers a wide overview of how the year went, what I did and how I felt overall about it. Starting with things that matter the most.&lt;/p&gt;
 &lt;h2 id=&#34;debian&#34;&gt;Debian&lt;/h2&gt;
 &lt;h3 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h3&gt;
 &lt;p&gt;Debian has been a big part of my life ever since 2019. I tried to make as much time as possible for Debian this year as well,
-mostly in form of contributions. I did a few new packages for &lt;a href=&#34;https://tracker.debian.org/pkg/gomuks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gomuks&lt;/a&gt;
- being an interesting one and also took over the maintenance of &lt;a href=&#34;https://tracker.debian.org/pkg/kitty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kitty&lt;/a&gt;
+mostly in form of contributions. I did a few new packages of which &lt;a href=&#34;https://tracker.debian.org/pkg/gomuks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gomuks&lt;/a&gt;
+ is an interesting one and also took over the maintenance of &lt;a href=&#34;https://tracker.debian.org/pkg/kitty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kitty&lt;/a&gt;
 .
-Along with this, I sponsored a bunch of packages, reviewed MRs and pushed commits
-to &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lintian&lt;/a&gt;
- and did some mentoring.&lt;/p&gt;
+Along with this, I sponsored a bunch of packages, reviewed MRs on &lt;a href=&#34;https://tracker.debian.org/pkg/lintian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lintian&lt;/a&gt;
+, pushed commits and did some mentoring.&lt;/p&gt;
 &lt;p&gt;Comparing the salsa activity graph of past years, my activity, very clearly dwindled a bit.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;
 &lt;figure&gt;
@@ -170,7 +169,7 @@ I intend to change this in the coming year and spend some more time on &lt;em&gt
 tasks in between the projects.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Overall, I did a bunch of travel, met new (and old) folks and got some cool stuff done. I and my loved ones have been
-in fine health throughout for which I am grateful to the Almighty. This was a fine year overall; I however do look forward an
+in fine health throughout for which I am grateful to the Almighty. This was a fine year overall. I however do look forward to an
 even better 2024.&lt;/p&gt;
 </description>
     </item>
